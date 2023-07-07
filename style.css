@@ -1,0 +1,43 @@
+*{
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3[value="purple"] {
+    color:blueviolet;
+}
+
+h3[value="blue"] {
+    color:rgb(0, 77, 128);
+}
+
+.pic{
+    text-align: center;
+}
+
+h1[value="name"] {
+    text-align: center;
+}
+
+h3[value="contact"] {
+    text-align: center;
+}
+
+h2{
+    text-align: center; 
+}
+
+h3{
+    text-align: center; 
+}
+
+h4{
+    text-align: center; 
+}
+
+#pdetails{
+    border: solid black;
+    border-width: 7px 10px;
+}
+
+
+ 
